@@ -13,7 +13,7 @@
         "price": 149.99,
         "image": "../images/office-chair.jpeg",
         "description": "Ergonomic office chair for maximum comfort.",
-        "quantity": 4
+        "quantity": 1
     },
     {
         "id": 16,
@@ -21,7 +21,7 @@
         "price": 9.99,
         "image": "../images/water-bottle.jpg",
         "description": "Reusable water bottle with built-in filter.",
-        "quantity": 2
+        "quantity": 1
     },
     {
         "id": 17,
