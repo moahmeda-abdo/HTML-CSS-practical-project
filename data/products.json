@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "name": "Wireless Earbuds",
+        "price": 49.99,
+        "image": "../images/earbuds.jpeg",
+        "description": "High-quality wireless earbuds with noise cancellation."
+    },
+    {
+        "id": 2,
+        "name": "Smart Watch",
+        "price": 89.99,
+        "image": "../images/smartwatch.jpg",
+        "description": "Stylish smartwatch with health monitoring features."
+    },
+    {
+        "id": 3,
+        "name": "Laptop Backpack",
+        "price": 29.99,
+        "image": "../images/backpack.png",
+        "description": "Durable and spacious backpack for laptops and accessories."
+    },
+    {
+        "id": 4,
+        "name": "Gaming Mouse",
+        "price": 39.99,
+        "image": "../images/gaming-mouse.jpeg",
+        "description": "Precision gaming mouse with customizable buttons."
+    },
+    {
+        "id": 5,
+        "name": "LED Desk Lamp",
+        "price": 19.99,
+        "image": "../images/desk-lamp.jpeg",
+        "description": "Modern LED lamp with adjustable brightness levels."
+    },
+    {
+        "id": 6,
+        "name": "Bluetooth Speaker",
+        "price": 59.99,
+        "image": "../images/bluetooth-speaker.jpeg",
+        "description": "Portable Bluetooth speaker with deep bass and crisp sound."
+    },
+    {
+        "id": 7,
+        "name": "Yoga Mat",
+        "price": 24.99,
+        "image": "../images/yoga-mat.jpeg",
+        "description": "Non-slip yoga mat for workouts and relaxation."
+    },
+    {
+        "id": 8,
+        "name": "Smartphone Stand",
+        "price": 14.99,
+        "image": "../images/smartphone-stand.jpg",
+        "description": "Adjustable smartphone stand for hands-free viewing."
+    },
+    {
+        "id": 9,
+        "name": "Wireless Keyboard",
+        "price": 34.99,
+        "image": "../images/keyboard.jpg",
+        "description": "Compact wireless keyboard with ergonomic design."
+    },
+    {
+        "id": 10,
+        "name": "Travel Mug",
+        "price": 12.99,
+        "image": "../images/travel-mug.jpeg",
+        "description": "Insulated travel mug to keep beverages hot or cold."
+    },
+    {
+        "id": 11,
+        "name": "Fitness Tracker",
+        "price": 69.99,
+        "image": "../images/fitness-tracker.jpeg",
+        "description": "Track your steps, heart rate, and calories burned."
+    },
+    {
+        "id": 12,
+        "name": "Desk Organizer",
+        "price": 17.99,
+        "image": "../images/desk-organizer.jpg",
+        "description": "Stylish desk organizer to keep your workspace tidy."
+    },
+    {
+        "id": 13,
+        "name": "Coffee Maker",
+        "price": 99.99,
+        "image": "../images/coffee-maker.jpg",
+        "description": "Brews a perfect cup of coffee every time."
+    },
+    {
+        "id": 14,
+        "name": "Wireless Charger",
+        "price": 22.99,
+        "image": "../images/wireless-charger.jpeg",
+        "description": "Fast wireless charger compatible with most devices."
+    },
+    {
+        "id": 15,
+        "name": "Office Chair",
+        "price": 149.99,
+        "image": "../images/office-chair.jpeg",
+        "description": "Ergonomic office chair for maximum comfort."
+    },
+    {
+        "id": 16,
+        "name": "Sports Water Bottle",
+        "price": 9.99,
+        "image": "../images/water-bottle.jpg",
+        "description": "Reusable water bottle with built-in filter."
+    },
+    {
+        "id": 17,
+        "name": "Noise-Cancelling Headphones",
+        "price": 199.99,
+        "image": "../images/headphones.jpeg",
+        "description": "Experience crystal-clear sound with active noise cancellation."
+    },
+    {
+        "id": 18,
+        "name": "4K Action Camera",
+        "price": 129.99,
+        "image": "../images/action-camera.jpeg",
+        "description": "Capture stunning videos and photos on your adventures."
+    },
+    {
+        "id": 19,
+        "name": "Portable Power Bank",
+        "price": 29.99,
+        "image": "../images/power-bank.jpeg",
+        "description": "Charge your devices on the go with this compact power bank."
+    },
+    {
+        "id": 20,
+        "name": "Foldable Drone",
+        "price": 299.99,
+        "image": "../images/drone.jpeg",
+        "description": "Take to the skies and capture amazing aerial views."
+    }
+]

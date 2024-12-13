@@ -1,0 +1,34 @@
+[
+    {
+        "id": 14,
+        "name": "Wireless Charger",
+        "price": 22.99,
+        "image": "../images/wireless-charger.jpeg",
+        "description": "Fast wireless charger compatible with most devices.",
+        "quantity": 1
+    },
+    {
+        "id": 15,
+        "name": "Office Chair",
+        "price": 149.99,
+        "image": "../images/office-chair.jpeg",
+        "description": "Ergonomic office chair for maximum comfort.",
+        "quantity": 4
+    },
+    {
+        "id": 16,
+        "name": "Sports Water Bottle",
+        "price": 9.99,
+        "image": "../images/water-bottle.jpg",
+        "description": "Reusable water bottle with built-in filter.",
+        "quantity": 2
+    },
+    {
+        "id": 17,
+        "name": "Noise-Cancelling Headphones",
+        "price": 199.99,
+        "image": "../images/headphones.jpeg",
+        "description": "Experience crystal-clear sound with active noise cancellation.",
+        "quantity": 1
+    }
+]
