@@ -10,6 +10,7 @@ function renderCart(cartData) {
         const productDiv = document.createElement("div");
         productDiv.classList.add("cart-item");
         productDiv.innerHTML = `
+        <img src="${product.image}" alt="${product.name}" class="cart-item-image">
             <p>${product.name} - $${product.price} x ${product.quantity}</p>
             <p>Total: $${(product.price * product.quantity).toFixed(2)}</p>
         `;
